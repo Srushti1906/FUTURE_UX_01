@@ -87,6 +87,10 @@ A minimal design with proper spacing and readable typography ensures a professio
 * **Canva** – UI/UX design creation
 * **GitHub** – Project documentation and sharing
 
+## CarePlus Clinic UI Design
+
+![CarePlus Clinic UI](https://raw.githubusercontent.com/Srushti1906/FUTURE_UX_01/main/CarePlus-Clinic.png)
+
 ## 📍 Conclusion
 
 This project demonstrates how an effective UI design can improve a healthcare clinic’s online presence by clearly presenting services, building trust with visitors, and guiding users toward booking appointments or contacting the clinic.
