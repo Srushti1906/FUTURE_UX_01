@@ -87,13 +87,6 @@ A minimal design with proper spacing and readable typography ensures a professio
 * **Canva** – UI/UX design creation
 * **GitHub** – Project documentation and sharing
 
-## 🎨 Canva Design Link
-
-View the complete UI design here:
-
-🔗 **Canva Design (View Only)**
-https://www.canva.com/design/DAHCoil5iYs/mwp2eUW6wpvCLKYsx6TFew/edit
-
 ## 📍 Conclusion
 
 This project demonstrates how an effective UI design can improve a healthcare clinic’s online presence by clearly presenting services, building trust with visitors, and guiding users toward booking appointments or contacting the clinic.
