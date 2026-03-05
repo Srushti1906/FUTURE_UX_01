@@ -93,6 +93,4 @@ This project demonstrates how an effective UI design can improve a healthcare cl
 
 
 
-## 📍 Conclusion
 
-This project demonstrates how a well-structured UI design can improve the online presence of a healthcare clinic by providing clear information, building trust, and guiding users toward taking action such as booking an appointment.
